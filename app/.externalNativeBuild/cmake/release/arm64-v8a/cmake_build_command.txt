@@ -1,0 +1,15 @@
+Executable : C:\Users\sunshine\AppData\Local\Android\sdk\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+-HC:\Users\sunshine\Desktop\EasyPR4Android-master\app
+-BC:\Users\sunshine\Desktop\EasyPR4Android-master\app\.externalNativeBuild\cmake\release\arm64-v8a
+-GAndroid Gradle - Ninja
+-DANDROID_ABI=arm64-v8a
+-DANDROID_NDK=D:\Opensource\androidstdio23\android-ndk\android-ndk-r12b
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\Users\sunshine\Desktop\EasyPR4Android-master\app\build\intermediates\cmake\release\obj\arm64-v8a
+-DCMAKE_BUILD_TYPE=Release
+-DCMAKE_MAKE_PROGRAM=C:\Users\sunshine\AppData\Local\Android\sdk\cmake\3.6.4111459\bin\ninja.exe
+-DCMAKE_TOOLCHAIN_FILE=C:\Users\sunshine\AppData\Local\Android\sdk\cmake\3.6.4111459\android.toolchain.cmake
+-DANDROID_PLATFORM=android-22
+-DCMAKE_CXX_FLAGS=-std=c++11 -frtti -fexceptions
+jvmArgs : 
+

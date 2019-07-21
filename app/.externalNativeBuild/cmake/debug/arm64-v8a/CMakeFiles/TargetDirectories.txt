@@ -1,0 +1,3 @@
+C:/Users/sunshine/Desktop/EasyPR4Android-master/app/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/sunshine/Desktop/EasyPR4Android-master/app/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/mrcar.dir
+C:/Users/sunshine/Desktop/EasyPR4Android-master/app/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/rebuild_cache.dir
